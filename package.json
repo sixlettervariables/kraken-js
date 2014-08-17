@@ -77,7 +77,7 @@
     "debuglog": "~0.0.2",
     "shush": "~0.0.1",
     "lusca": "^1.0.0",
-    "express-enrouten": "^1.0.0",
+    "express-enrouten": "git://github.com/sixlettervariables/express-enrouten.git#order-routes",
     "core-util-is": "^1.0.1",
     "formidable": "^1.0.14",
     "shortstop": "^1.0.0",
